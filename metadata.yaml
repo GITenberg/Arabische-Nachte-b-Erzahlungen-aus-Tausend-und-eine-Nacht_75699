@@ -1,0 +1,36 @@
+_repo: Arabische-Nachte-b-Erzahlungen-aus-Tausend-und-eine-Nacht_75699
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dulac, Edmund
+    alias: Dulac, Edmond
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '7657'
+    url: http://www.gutenberg.org/2009/agents/7657
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Dulac
+description: ''
+gutenberg_issued: '2025-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75699'
+language: de
+pgterms:marc905: 20240817031847dulac
+pgterms:marc906: '1920'
+pgterms:marc907: DE
+production_note: Richard Illner and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aPotsdam :$bMüller & I. Kiepenheuer Verlag, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Arab countries'
+- !lcsh 'Fairy tales -- Arab countries'
+- !lcc 'PJ'
+- GITenberg
+tableOfContents: Eingang -- Geschichte vom Fischer und dem Geiste -- Geschichte vom
+  versteinerten Prinzen -- Geschichte vom Zauberpferde -- Geschichte vom Prinzen Chodadad
+  -- Geschichte des Prinzen Achmed und der Fee Pari Banu -- Geschichte von Ali Baba
+  und den vierzig Räubern -- Ausgang.
+title: 'Arabische Nächte : $b Erzählungen aus Tausend und eine Nacht'
+url: http://www.gutenberg.org/ebooks/75699
